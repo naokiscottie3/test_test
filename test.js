@@ -4,3 +4,5 @@ const b = 3;
 
 console.log('楽しいgit');
 console.log('どうよこれ');
+
+nice
